@@ -1,3 +1,5 @@
+#!/bin/sh
+
 sudo apt install python3 python3-setuptools xdotool python3-gi libinput-tools python-gobject
 
 git clone https://github.com/bulletmark/libinput-gestures.git libinput
