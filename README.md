@@ -1,5 +1,5 @@
 # System Setup
-
+![Result image](result.png)
 **Attention**
  This is my system setup which you may like or not, its main purpose is to make my system reinstall faster and easier, so this repo purpose is mainly for my needs. But feel free to explore and use it for your needs.
 
